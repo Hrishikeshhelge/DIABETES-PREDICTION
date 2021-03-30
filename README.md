@@ -25,3 +25,7 @@ WEB APP URL : https://diabetespredictordeployment.herokuapp.com/
 9. Heroku (PaaS)
 10. Jupyter notebook, Spyder as IDE.
 * All the steps required to execute the project have been mentioned in the .ipynb file.
+### WEB APP
+![](IMG.png)
+### CREDITS
+Special thanks to Mr.Anuj Vyas as he has created this amazing project initial using kaggle problem statement and uploaded with a wonderful explanation of His Github.
