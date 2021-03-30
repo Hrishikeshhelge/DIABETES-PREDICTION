@@ -1,4 +1,5 @@
 This machine learning project walks through step by step process of how to build a 'DIABETES PREDICTION' model, With deployment.
+This ML model asks you few questions such as “Glucose level, Blood Pressure, Skin thickness, Insulin Level, BMI, Age, etc”. to predict whether you have diabetes or not.  
 
 WEB APP URL : https://diabetespredictordeployment.herokuapp.com/
 
@@ -28,4 +29,4 @@ WEB APP URL : https://diabetespredictordeployment.herokuapp.com/
 ### WEB APP
 ![](IMG.png)
 ### CREDITS
-Special thanks to Mr.Anuj Vyas as he has created this amazing project initial using kaggle problem statement and uploaded with a wonderful explanation on his Github.
+Special thanks to Mr.Anuj Vyas as he has created this amazing project initial using a kaggle problem statement and uploaded with a wonderful explanation on his Github.
