@@ -29,4 +29,4 @@ WEB APP URL : https://diabetespredictordeployment.herokuapp.com/
 ### WEB APP
 ![](IMG.png)
 ### CREDITS
-Special thanks to Mr.Anuj Vyas as he has created this amazing project initial using a kaggle problem statement and uploaded with a wonderful explanation on his Github.
+Special thanks to Mr.Anuj Vyas as he has created this amazing project initially using a kaggle problem statement and uploaded with a wonderful explanation on his Github.
