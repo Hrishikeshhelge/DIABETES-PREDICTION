@@ -1,5 +1,4 @@
-### Objective:
-The growth of the mobile phone users has led to a dramatic increase in SMS spam messages. Though in most parts of the world, mobile messaging channel is currently regarded as “clean” and trusted, on the contrast recent reports clearly indicate that the volume of mobile phone spam is dramatically increasing year by year. It is an evolving setback especially in the Middle East and Asia. SMS spam filtering is a comparatively recent errand to deal such a problem. It inherits many concerns and quick fixes from Email spam filtering. However it fronts its own certain issues and problems. This project inspires to work on the task of filtering mobile messages as Ham or Spam
+
 
 This machine learning project walks through step by step process of how to build a 'DIABETES PREDICTION' model, With deployment.
 This ML model asks you few questions such as “Glucose level, Blood Pressure, Skin thickness, Insulin Level, BMI, Age, etc”. to predict whether you have diabetes or not.  
