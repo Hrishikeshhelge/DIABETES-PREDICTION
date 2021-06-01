@@ -14,8 +14,8 @@ WEB APP URL : https://diabetespredictordeployment.herokuapp.com/
 6. Interpreting the ML Model
 7. Making Predictions with the Model
 8. Saving the Model (as .pkl file)
-9. Creating a Web application.
-10. Deployment of the application.
+9. Deployment of the application.
+10. Creating a Web application.
 ### Technology and tools this project covers:
 1. Python as a programming language.
 2. HTML, CSS & Flask for building Web pages.
